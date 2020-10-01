@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some information about me.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Francisco Temoatzin Rivero Chavarria. I studied at Chapingo Autonomous University and graduated in Agricultural Mechanical Engineering.  
+I studied a bit about programming back in school, I learned the basics about C, Matlab and Python. After I graduated I decided to dive in a bit more and now I'm self learning via internet about python, C#, javascript, and data science.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'll try to pursue a career in data science and I'll try to write down my progress in here.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I hope you enjoy, thanks for reading!
