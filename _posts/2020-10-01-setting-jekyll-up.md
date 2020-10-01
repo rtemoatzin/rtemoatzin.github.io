@@ -5,7 +5,7 @@ subtitle: Learning how to set up a Jekyll blog with Github pages
 tags: [git, github, jekyll]
 ---
 
-###Setting this blog up!
+Setting this blog up!
 
 I decided to write a blog the things I learn about development, and since I learned a couple things I want to write down about Machine learning, I started this website.  
 But I have to say, it wasn't that easy.
