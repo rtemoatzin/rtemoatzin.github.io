@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Temoatzin Rivero Developer Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Temoatzin Rivero Chavarria
 
 # --- List of links in the navigation bar --- #
 
@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "r.temoatzin@gmail.com"
+  facebook: Temo Rivero
+  github: https://github.com/rtemoatzin
+#  twitter: 
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/francisco-temoatzin-rivero-chavarria-156883151/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -97,7 +97,7 @@ feed_show_tags: true
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#e2e1ce"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
